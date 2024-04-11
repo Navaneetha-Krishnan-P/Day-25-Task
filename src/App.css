@@ -1,0 +1,62 @@
+.heading{
+    text-align: center;
+}
+.inputs{
+    text-align: center;
+}
+.card{
+    background-color: lightgreen;
+    border: none;
+}
+.cardcont{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding-left: 80px;
+    padding-top: 50px;
+    row-gap: 100px;
+}
+.btn1{
+    border: none;
+    background-color: darkgreen;
+    color: white;
+    padding: 5px 50px;
+    border-radius: 5px;
+}
+.btn2{
+    border: none;
+    background-color: orange;
+    color: white;
+    padding: 5px 50px;
+    border-radius: 5px;
+}
+.btn3{
+    border: none;
+    background-color: darkgreen;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.btn4{
+    border: none;
+    background-color: brown;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.body{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+    margin-top: 50px;
+}
+.heading{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: darkgreen;
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px 50px;
+}
+
